@@ -7,19 +7,19 @@ import testimonialImage3 from '/src/components/testimonials/3.jpg';
 const testimonialData = [
       {
             id: 1,
-            name: "Chintan Patel -Director of Design Operation, Ahmedabad",
+            name: "Fardin Limbadiya -Director of Design Operation, Ahmedabad",
             text: "The results have been incridible with Power Digital, it feels like they're in our trench, supporting and understanding us. They're like a partner and mentor in helping us get where we want to be.",
             img: testimonialImage1,
       },
       {
             id: 1,
-            name: "Chintan Patel -Director of Design Operation, Ahmedabad",
+            name: "Chintan Patel -CEO of Design Operation, Ahmedabad",
             text: "The results have been incridible with Power Digital, it feels like they're in our trench, supporting and understanding us. They're like a partner and mentor in helping us get where we want to be.",
             img: testimonialImage,
       },
       {
             id: 1,
-            name: "Chintan Patel -Director of Design Operation, Ahmedabad",
+            name: "Fardin Limbadiya -Director of Design Operation, Ahmedabad",
             text: "The results have been incridible with Power Digital, it feels like they're in our trench, supporting and understanding us. They're like a partner and mentor in helping us get where we want to be.",
             img: testimonialImage3,
       },
